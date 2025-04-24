@@ -1,0 +1,2 @@
+# .github
+Asetin .github metarepository
